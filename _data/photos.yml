@@ -1,0 +1,148 @@
+---
+- filename: Michal_Cizek1.jpg
+  description: 
+  photog: Michal Čížek
+  related:
+  - Michal_Cizek2.jpg
+  - Michal_Cizek3.jpg
+- filename: Michal_Cizek2.jpg
+  description: 
+  photog: Michal Čížek
+  related:
+  - Michal_Cizek1.jpg
+  - Michal_Cizek3.jpg
+- filename: Michal_Cizek3.jpg
+  description: 
+  photog: Michal Čížek
+  related:
+  - Michal_Cizek1.jpg
+  - Michal_Cizek2.jpg
+- filename: Milan_Jaros1.jpg
+  description: 
+  photog: Milan Jaroš
+  related:
+  - Milan_Jaros2.jpg
+  - Milan_Jaros3.jpg
+- filename: Milan_Jaros2.jpg
+  description: 
+  photog: Milan Jaroš
+  related:
+  - Milan_Jaros1.jpg
+  - Milan_Jaros3.jpg
+- filename: Milan_Jaros3.jpg
+  description: 
+  photog: Milan Jaroš
+  related:
+  - Milan_Jaros1.jpg
+  - Milan_Jaros2.jpg
+- filename: Petr_Josek1.jpg
+  description: 
+  photog: Petr Josek
+  related:
+  - Petr_Josek2.jpg
+  - Petr_Josek3.jpg
+- filename: Petr_Josek2.jpg
+  description: 
+  photog: Petr Josek
+  related:
+  - Petr_Josek1.jpg
+  - Petr_Josek3.jpg
+- filename: Petr_Josek3.jpg
+  description: 
+  photog: Petr Josek
+  related:
+  - Petr_Josek1.jpg
+  - Petr_Josek2.jpg
+- filename: Lukas_Kabon1.jpg
+  description: Vika se synem Timurem cestují z Oděsy již několik dní. Dne 5. března
+    2022 je nabral humanitární vlak v polském Přemyšlu a pomohl jim s cestou do Prahy.
+  photog: Lukáš Kaboň
+  related:
+  - Lukas_Kabon2.jpg
+  - Lukas_Kabon3.jpg
+- filename: Lukas_Kabon2.jpg
+  description: Lidé prchající z Ukrajiny přicházejí na Slovensko přes hraniční přechod
+    Vyšné Nemecké, 27. února 2022. Voják pomáhá přenést dítě přes hraniční přechod.
+  photog: Lukáš Kaboň
+  related:
+  - Lukas_Kabon1.jpg
+  - Lukas_Kabon3.jpg
+- filename: Lukas_Kabon3.jpg
+  description: Pasažéři čekají na odjezd vlaku do Polska, 4. března 2022 v Mostyska
+    (Ukrajina).
+  photog: Lukáš Kaboň
+  related:
+  - Lukas_Kabon1.jpg
+  - Lukas_Kabon2.jpg
+- filename: Gabriel_Kuchta1.jpg
+  description: 
+  photog: Gabriel Kuchta
+  related:
+  - Gabriel_Kuchta2.jpg
+  - Gabriel_Kuchta3.jpg
+- filename: Gabriel_Kuchta2.jpg
+  description: 
+  photog: Gabriel Kuchta
+  related:
+  - Gabriel_Kuchta1.jpg
+  - Gabriel_Kuchta3.jpg
+- filename: Gabriel_Kuchta3.jpg
+  description: 
+  photog: Gabriel Kuchta
+  related:
+  - Gabriel_Kuchta1.jpg
+  - Gabriel_Kuchta2.jpg
+- filename: Filip_Singer1.jpg
+  description: 
+  photog: Filip Singer
+  related:
+  - Filip_Singer2.jpg
+  - Filip_Singer3.jpg
+- filename: Filip_Singer2.jpg
+  description: 
+  photog: Filip Singer
+  related:
+  - Filip_Singer1.jpg
+  - Filip_Singer3.jpg
+- filename: Filip_Singer3.jpg
+  description: 
+  photog: Filip Singer
+  related:
+  - Filip_Singer1.jpg
+  - Filip_Singer2.jpg
+- filename: Vladimir_Simicek1.jpg
+  description: 
+  photog: Vladimír Šimíček
+  related:
+  - Vladimir_Simicek2.jpg
+  - Vladimir_Simicek3.jpg
+- filename: Vladimir_Simicek2.jpg
+  description: 
+  photog: Vladimír Šimíček
+  related:
+  - Vladimir_Simicek1.jpg
+  - Vladimir_Simicek3.jpg
+- filename: Vladimir_Simicek3.jpg
+  description: 
+  photog: Vladimír Šimíček
+  related:
+  - Vladimir_Simicek1.jpg
+  - Vladimir_Simicek2.jpg
+- filename: Petr_Topic101.jpg
+  description: Vyšné Nemecké
+  photog: Petr Topič
+  related:
+  - Petr_Topic102.jpg
+  - Petr_Topic103.jpg
+- filename: Petr_Topic102.jpg
+  description: Vyšné Nemecké
+  photog: Petr Topič
+  related:
+  - Petr_Topic101.jpg
+  - Petr_Topic103.jpg
+- filename: Petr_Topic103.jpg
+  description: Vyšné Nemecké
+  photog: Petr Topič
+  related:
+  - Petr_Topic101.jpg
+  - Petr_Topic102.jpg

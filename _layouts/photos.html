@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<img src="/images/{{page.filename}}">
+<div>Fotograf: {{page.photog}}</a></div>
+<div class="description">{{page.description}}</div>
+<div class="order"><a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSex-V5EJ5vHKFcF9f1pG-nPcKo2SgbuQdmAxnf0lZwOcMrzTg/viewform?usp=pp_url&entry.1896224007={{page.filename}}">Objednat tuhle fotografii</a></div>
+
+<h2>Další fotografie</h2>
+
+{% for photo in page.related %}
+<a href="/fotky/{{photo | downcase}}.html"><img src="/images/{{photo}}" style="width: 40%"></a>
+{% endfor %}

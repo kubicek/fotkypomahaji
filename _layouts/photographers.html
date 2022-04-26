@@ -1,0 +1,11 @@
+---
+layout: page
+---
+<div class="bio">{{ page.bio }}</div>
+
+<div class="gallery">
+{% assign images = page.images %}
+{% include splide-gallery.html folder="images" %}
+</div>
+
+

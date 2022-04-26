@@ -1,0 +1,14 @@
+<section class="splide b-bottom-accent" aria-label="Photo gallery">
+  <div class="splide__track">
+		<ul class="splide__list">
+      {% for image in images %}
+			<li class="splide__slide">
+        <a href="/fotky/{{ image.filename | downcase }}.html">
+          <img src="{{ site.imagesurl }}{{ image.filename }} " alt="{{ name }}" />
+        </a>
+      </li>
+      {% endfor %}
+		</ul>
+  </div>
+</section>
+

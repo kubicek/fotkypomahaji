@@ -1,0 +1,59 @@
+- name: Michal Čížek
+  bio: Více jak 14 let působím jako fotoreportér francouzské tiskové agentury Agence France Presse (AFP), po mnoho let jsem již také vedoucím fotooddělení Mezinárodního filmového festivalu v Karlových Varech.
+  slug: michal-cizek
+  images:
+  - filename: Michal_Cizek1.jpg
+  - filename: Michal_Cizek2.jpg
+  - filename: Michal_Cizek3.jpg
+- name: Milan Jaroš
+  slug: milan-jaros
+  images:
+  - filename: Milan_Jaros1.jpg
+  - filename: Milan_Jaros2.jpg
+  - filename: Milan_Jaros3.jpg
+- name: Petr Josek
+  bio: Jsem fotografem tiskové agentury AP od roku 2002. Prosím Vás, abyste přispěli na nadaci Človeka v tísni. Pomoc bude potřeba ještě dlouho.
+  slug: petr-josek
+  images:
+  - filename: Petr_Josek1.jpg
+  - filename: Petr_Josek2.jpg
+  - filename: Petr_Josek3.jpg
+- name: Lukáš Kaboň
+  bio: Jmenuji se Lukáš Kaboň, od roku 2013 fotografuji pro noviny Deník a také spolupracuji s mezinárodní zpravodajskou agenturu Anadolu Agency. Rád bych výtěžek z prodaných fotografié věnoval neziskové organizaci Post Bellum - Pamětí národa. A to především z důvodů že za vybrané finanční prostředky nakupují vybavení, které zachraňuje životy na Ukrajině. Nakupují zejména zdravotnický materiál, ochranné vesty, helmy aj.
+  slug: lukas-kabon
+  images:
+  - filename: Lukas_Kabon1.jpg
+    description: Vika se synem Timurem cestují z Oděsy již několik dní. Dne 5. března 2022 je nabral humanitární vlak v polském Přemyšlu a pomohl jim s cestou do Prahy.
+  - filename: Lukas_Kabon2.jpg
+    description: Lidé prchající z Ukrajiny přicházejí na Slovensko přes hraniční přechod Vyšné Nemecké, 27. února 2022. Voják pomáhá přenést dítě přes hraniční přechod.
+  - filename: Lukas_Kabon3.jpg
+    description: Pasažéři čekají na odjezd vlaku do Polska, 4. března 2022 v Mostyska (Ukrajina).
+- name: Gabriel Kuchta
+  bio: Som fotograf českého DeníkuN, dopady ruskej invázie na Ukrajinu sa spolu s kolegami redaktormi snažíme popisovať čo najširšie, aj priamo z miest zasiahnutých vojnou. Verím že naša práca má zmyslel a som rád že spoločne možme pomáhať Ukrajine aj týmto sposobom. Ďakujem, Gabriel Kuchta
+  slug: gabriel-kuchta
+  images:
+  - filename: Gabriel_Kuchta1.jpg
+  - filename: Gabriel_Kuchta2.jpg
+  - filename: Gabriel_Kuchta3.jpg
+- name: Filip Singer
+  slug: filip-singer
+  images:
+  - filename: Filip_Singer1.jpg
+  - filename: Filip_Singer2.jpg
+  - filename: Filip_Singer3.jpg
+- name: Vladimír Šimíček
+  slug: vladimir-simicek
+  images:
+  - filename: Vladimir_Simicek1.jpg
+  - filename: Vladimir_Simicek2.jpg
+  - filename: Vladimir_Simicek3.jpg
+- name: Petr Topič
+  bio: Fotím pro MAFRA, a. s. a budu rád, když koupí fotky pomůžete těm, kdo Vaši pomoc potřebují.
+  slug: petr-topic
+  images:
+  - filename: Petr_Topic101.jpg
+    description: Vyšné Nemecké
+  - filename: Petr_Topic102.jpg
+    description: Vyšné Nemecké
+  - filename: Petr_Topic103.jpg
+    description: Vyšné Nemecké
