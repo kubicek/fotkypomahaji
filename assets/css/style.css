@@ -334,4 +334,6 @@ h2 { font-weight: 800; margin-bottom: 30px; }
 
 .order a.button { background-color: green; color: white; padding: 1em 1.5em; text-decoration: none; text-transform: uppercase; }
 
+h2 a:any-link { color: #bbbbbb; text-decoration: none; cursor: auto; }
+
 /*# sourceMappingURL=style.css.map */
