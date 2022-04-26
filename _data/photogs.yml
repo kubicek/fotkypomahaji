@@ -1,3 +1,9 @@
+- name: Milan Bureš
+  slug: milan-bures
+  images:
+  - filename: Milan_Bures1.jpg
+  - filename: Milan_Bures2.jpg
+  - filename: Milan_Bures3.jpg
 - name: Michal Čížek
   bio: Více jak 14 let působím jako fotoreportér francouzské tiskové agentury Agence France Presse (AFP), po mnoho let jsem již také vedoucím fotooddělení Mezinárodního filmového festivalu v Karlových Varech.
   slug: michal-cizek

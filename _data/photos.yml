@@ -1,4 +1,22 @@
 ---
+- filename: Milan_Bures1.jpg
+  description: 
+  photog: Milan Bureš
+  related:
+  - Milan_Bures2.jpg
+  - Milan_Bures3.jpg
+- filename: Milan_Bures2.jpg
+  description: 
+  photog: Milan Bureš
+  related:
+  - Milan_Bures1.jpg
+  - Milan_Bures3.jpg
+- filename: Milan_Bures3.jpg
+  description: 
+  photog: Milan Bureš
+  related:
+  - Milan_Bures1.jpg
+  - Milan_Bures2.jpg
 - filename: Michal_Cizek1.jpg
   description: 
   photog: Michal Čížek
