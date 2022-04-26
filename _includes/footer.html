@@ -1,15 +1,10 @@
 <footer class="site-footer h-card">
   <script>
-    // new Splide( '.splide' ).mount();
     var elms = document.getElementsByClassName( 'splide' );
     for ( var i = 0; i < elms.length; i++ ) {
       new Splide( elms[ i ], {
         gap: 0,
-        // autoWidth: false,
-        // autoHeight: false,
         padding: 0,
-        // width : '1000px',
-        // height: '400px'
         }).mount();
     }
   </script>
@@ -19,13 +14,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <!-- <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p> -->
+
         <p>{{ site.description | escape }}</p>
 
       {%- if site.author %}

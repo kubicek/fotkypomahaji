@@ -15,7 +15,7 @@ Koupí fotografie přispějete celou částkou ve výši 2.000, -Kč těm, kdo p
 
 Vyberte si jednu z fotografií předních českých a slovenských autorů, jež zaznamenávají realitu přímo z okupované Ukrajiny, z migrační krize, kterou vyvolala, nebo z akcí, které na podporu Ukrajiny vznikají. Jako platbu budeme akceptovat vaše potvrzení o zaslání finanční podpory na účet [Člověka v tísni](https://www.clovekvtisni.cz/darujte/jednorazove?amount=5000&accountId=7), [Charity ČR](https://proukrajinu.charita.cz/), [Post Bellum](https://www.darujme.cz/projekt/1205934) zaslané po 1. květnu 2022. Vytištěná fotografie, kterou na vaši adresu zašleme, pak zůstane připomínkou toho, že jste pomohli těm, kdo vaši pomoc naléhavě potřebovali.  
 
-Fotky o rozmeru papiru 40-50 cm za cenu nakladu vytiskne (Martin Wagner)[https://www.facebook.com/Martiwag].
+Fotky o rozměru papíru 40-50 cm za cenu nákladů vytiskne (Martin Wagner)[https://www.facebook.com/Martiwag].
 
 Náklady na tisk vybrané fotografie a poštovné hradí sami autoři, za přispění rodiny Chybovi a společnosti SkyXS Aircargo s.r.o.
 
